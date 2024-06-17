@@ -5,3 +5,4 @@
 4. event delegation ✅
 5. higher order functions ✅
 6. error handling - try catch ✅
+7. ./asyncjs - Fetch API ✅
